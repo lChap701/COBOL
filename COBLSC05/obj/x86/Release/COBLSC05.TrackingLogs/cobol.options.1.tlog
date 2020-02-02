@@ -1,0 +1,2 @@
+^C:\IHCC\COBOL\COBLSC05\COBLSC05.CBL
+MFCBT_Directives=int"C:.\bin\x86\Release\COBLSC05.int" noanim sourcetabstop"4" noquery warnings"1" max-error"100" delint gnt"C:.\bin\x86\Release\COBLSC05.gnt" xtraint . MFCBT_CopyPaths=

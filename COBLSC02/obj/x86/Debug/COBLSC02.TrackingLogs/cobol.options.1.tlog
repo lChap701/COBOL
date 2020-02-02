@@ -1,0 +1,4 @@
+^C:\IHCC\COBOL\COBLSC02\COBLSC02.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\COBLSC02.int" anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:.\bin\x86\Debug\COBLSC02.int" xtraint . MFCBT_CopyPaths=
+^D:\IHCC\COBOL\COBLSC02\COBLSC02.CBL
+MFCBT_Directives=int"D:.\bin\x86\Debug\COBLSC02.int" anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"D:.\bin\x86\Debug\COBLSC02.int" xtraint . MFCBT_CopyPaths=
