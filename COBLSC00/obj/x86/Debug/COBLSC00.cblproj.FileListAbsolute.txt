@@ -1,0 +1,4 @@
+C:\Cobol\COBLSC00\bin\x86\Debug\COBLSC00.idy
+C:\Cobol\COBLSC00\obj\x86\Debug\COBLSC00.idy
+C:\IHCC\Cobol\COBLSC00\bin\x86\Debug\COBLSC00.idy
+C:\IHCC\Cobol\COBLSC00\obj\x86\Debug\COBLSC00.idy
